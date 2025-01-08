@@ -1,20 +1,25 @@
-<h1 align="center">Hi 👋, I'm Rithika Sapparapu</h1>
-<h3 align="center">Software Engineer and AI Enthusiast</h3>
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/113302094/211284885-f4291eef-88a6-48cb-a06e-28c3481a75b0.gif" width="400" alt="software engineer">
-</p>
+<h1 align="center">Hi 👋, I'm Rithika</h1>
+<h3 align="center">A Software Engineer and AI Enthusiast</h3>
+
+<table style="display: flex; justify-content: space-between; align-items: center;">
+  <tr>
+    <td style="width: 100%;">
+      <ul>
+        <li>💬 I love discussing topics like <b>Large Language Models</b></li>
+        <li>🤖 Excited by the potential of AI to transform the future and impact lives</li>
+        <li>🌱 Constantly <b>learning and exploring new technologies</b></li>
+        <li>📫 Feel free to reach out to me at <b>rithikasapparapu@tamu.edu</b></li>
+        <li>⚡ Fun fact: <b>Humans are just sophisticated algorithms! :)</b></li>
+      </ul>
+    </td>
+    <td style="flex-shrink: 0;">
+      <img src="https://user-images.githubusercontent.com/113302094/211284885-f4291eef-88a6-48cb-a06e-28c3481a75b0.gif" width="350" alt="software engineer">
+    </td>
+  </tr>
+</table>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rithikasapparapu" alt="rithikasapparapu" /></a> </p>
 
-
-- 💬 I love discussing topics like **Large Language Models and NLP!**
-
-- 🌱 I’m currently working on **a variety of research and software projects involving machine learning and AI**
-
-- 🚀 Always **learning and exploring new technologies**
-
-- 📫 How to reach me **rithikasapparapu@tamu.edu**
-
-- ⚡ Fun fact **Humans are just sophisticated algorithms:)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
